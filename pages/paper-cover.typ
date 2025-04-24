@@ -21,7 +21,7 @@
       size: 36pt,
       font: zhongsong,
       weight: "bold"
-    )[本科生毕业设计(论文)]
+    )[本科生毕业设计\[论文\]]
 
     #v(40pt)
 
